@@ -1,0 +1,605 @@
+
+
+@media(max-width:991px) and (min-width:768px){
+
+    .nav-item{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .banner {
+        margin-bottom: 30px;
+    }
+
+    .banner h1 {
+        font-size: 30px;
+        font-weight: 700;
+        /* padding: 20px 0; */
+    }
+
+    .banner p {
+        font-size: 16px;
+        
+        padding: 0 0 30px;
+    }
+
+    .banner_images{
+        display: none;
+        position: static;
+        margin: auto;
+    }
+
+    .banner_images2{
+        display: inherit;
+        width: 90%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .features h1 {
+        font-size: 29px;
+    }
+
+    .fextures_content {
+        margin-bottom: 36px;
+    }
+
+    .fextures_content p {
+        font-size: 16px;
+
+    }
+
+    .about_text h1 {
+        font-size: 28px;
+    }
+
+    .about_text p {
+        font-size: 16px;
+    }
+
+    
+
+    .about_text2 h1 {
+        font-size: 28px;
+    }
+
+    .about_text2 p {
+        font-size: 16px;
+        padding: 20px 0;
+
+    }
+
+    .testimonials_text h1 {
+        font-size: 28px;
+
+    }
+
+    .card_item1 {
+        font-size: 21px;
+       
+    }
+
+    .card_item3 a {
+        font-size: 12px;
+        
+    }
+
+    .pricing_text h1 {
+        font-size: 28px;
+    }
+
+    /* .form_content {
+        width: 80%;
+    }
+
+    .contact_section {
+        padding: 30px 0 234px;
+    } */
+
+    .about_images2{
+        margin-top: 60px;
+        
+    }
+
+    .download {
+        display: block;
+        text-align: center;
+       
+    }
+
+    .download_left p {
+        margin-bottom: 20px;
+    }
+
+    .card_content {
+        margin-bottom: 30px;
+    }
+
+    .pricing_section {
+        padding: 40px 0 10px;
+    }
+
+    .form_content {
+        width: 80%;
+    }
+
+    .about_images {
+        /* width: 0; */
+    }
+}
+
+
+/* margin-top: 60px; */
+
+
+
+
+
+
+
+
+
+@media(max-width:768px){
+
+    .nav-item{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .banner_images{
+        display: none;
+        position: static;
+        margin: auto;
+    }
+
+    .overview {
+        margin-top: 15px;
+    }
+    
+
+    .container, .container-sm {
+        max-width: 694px;
+    }
+
+    .fextures_content {
+        margin-top: 30px;
+    }
+
+
+    .about_images {
+        text-align: center;
+        /* margin-left: 30px; */
+    }
+
+    .about_images img {
+        width: 50%;
+    }
+
+    .about_text p {
+        padding: 20px 0;
+    }
+
+    .about_text2 {
+        margin-top: 0;
+    }
+
+    .about_text2 p {
+        padding: 20px 0;
+    }
+
+    .about_images2{
+        padding: 0;
+        font-weight: 400;
+        width: 70%;
+        margin: auto;
+
+
+    }
+
+    .download {
+        display: block;
+        text-align: center;
+    }
+
+    .download_left{
+        margin-bottom: 20px;
+    }
+
+
+    .contact_section {
+        padding: 30px 0 415px;
+        
+    }
+    .form_content {
+        width: 80%;
+    }
+
+    .card_content {
+        margin-bottom: 30px;
+    }
+
+    .pricing_section {
+        padding: 40px 0 0;
+    }
+
+    .form_content {
+        width: 80%;
+    }
+
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:575px){
+    .nav-item{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .banner_images{
+        display: none;
+        position: static;
+        margin: auto;
+    }
+    .height{
+        text-align: center;
+        flex-direction: column-reverse;
+    }
+    .banner h6{
+        padding-bottom: 10px;
+        
+    }
+    .banner h1{
+        padding: 0 0 10px;
+        font-size: 40px;
+    }
+
+    .banner p{
+       font-size: 16px;
+       padding: 20px 40px 40px;
+        
+    }
+    /* .banner {
+        padding-bottom: 20px;
+    } */
+    .banner a{
+        padding: 8px 15px;
+    }
+
+    header{
+        padding-bottom: 50px;
+    }
+
+    .banner_images2{
+        display: inherit;
+        width: 30%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .fextures_content{
+        margin-top: 30px;
+
+    }
+
+    .overview {
+        margin-top: 0;
+    }
+
+    .about_images{
+        width: 50%;
+        margin: auto;
+    }
+
+    .about_section1 {
+        padding: 0;
+    }
+
+    .about_text p {
+        font-size: 16px;
+        padding:20px 0;
+    }
+
+    .about_content{
+        margin-bottom: 20px;
+
+    }
+
+    .about_text2 {
+        margin-top: 0px;
+    }
+
+    .about_text2 p {
+        font-size: 16px;
+        padding: 20px 0;
+    }
+
+    .about_images2{
+        width: 60%;
+        margin: auto;
+    }
+
+    .testimonials_owlcarousel .owl-dots{
+       
+        margin-top: 40px;
+    }
+
+    .download_left p {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .download{
+        display: block;
+    }
+
+    .download_right{
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    .testimonials_text {
+        padding: 10px 0 40px;
+    }
+
+    .card_content {
+        width: 90%;
+        margin: auto;
+        margin-top: 15px;
+    }
+
+    .contact_section {
+        padding: 30px 0 410px;
+    }
+
+    .form_content {
+        width: 80%;
+    }
+
+    .small{
+        width: 80%;
+        padding-bottom: 0;
+    }
+
+    .download_part {
+        padding: 20px 0 30px;
+    }
+
+    .contact_text h1 {
+        font-size: 30px;
+        padding: 8px 0 20px;
+    }
+
+    .contact_content {
+        margin-bottom: 15px;
+    }
+}
+
+
+
+@media(max-width:436px){
+
+    .banner h1 {
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .banner_text{
+        padding: 0;
+    }
+
+
+    .banner p {
+        font-size: 16px;
+        padding: 20px 0 40px;
+        /* text-align: center; */
+    }
+
+    .features h6 {
+        font-size: 12px;
+    }
+
+    .fextures_content h6 {
+        font-size: 20px;
+    }
+
+    .features h1 {
+        font-size: 26px;
+    }
+
+    .about_text h6 {
+        font-size: 12px;
+       
+    }
+
+    .about_text h1 {
+        font-size: 30px;
+    }
+
+    .about_text2 h6 {
+        font-size: 12px;
+       
+    }
+
+    .about_text2 h1 {
+        font-size: 30px;
+    }
+
+    .testimonials_text h1 {
+        font-size: 32px;
+    }
+
+    .testimonials h1{
+        font-size: 32px;
+         
+     }
+
+     .testimonials_right h6{
+        font-size: 14px;
+    }
+
+    .testimonials_right .testimonials_text2{
+        font-size: 12px;
+       
+    }
+
+    .download_left p{
+        font-size: 14px;
+
+    }
+
+    .download_right a {
+        font-size: 12px;
+       
+    }
+
+    .form_content {
+        padding: 25px;
+       
+    }
+
+    .form_right input[type="submit"]{
+        font-size: 12px;
+    }
+
+    .contact_section{
+        padding: 30px 0 363px;
+       
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:375px){
+
+    .banner_images{
+        width: 90%;
+
+    }
+
+    .banner h1 {
+        font-size: 27px;
+        font-weight: 700;
+    }
+
+    .banner_text{
+        padding: 0;
+    }
+
+
+    .banner p {
+        font-size: 16px;
+        padding: 20px 0 40px;
+        /* text-align: center; */
+    }
+
+    .features h6 {
+        font-size: 12px;
+    }
+
+    .fextures_content h6 {
+        font-size: 20px;
+    }
+
+    .features h1 {
+        font-size: 26px;
+    }
+
+    .about_text h6 {
+        font-size: 12px;
+       
+    }
+
+    .about_text h1 {
+        font-size: 25px;
+    }
+
+    .about_text2 h6 {
+        font-size: 12px;
+       
+    }
+
+    .about_text2 h1 {
+        font-size: 25px;
+    }
+
+    .testimonials_text h1 {
+        font-size: 32px;
+    }
+
+    .testimonials h1{
+        font-size: 32px;
+         
+     }
+
+     .testimonials_right h6{
+        font-size: 14px;
+    }
+
+    .testimonials_right .testimonials_text2{
+        font-size: 12px;
+       
+    }
+
+    .download_left p{
+        font-size: 14px;
+
+    }
+
+    .download_right a {
+        font-size: 12px;
+       
+    }
+
+    .form_content {
+        padding: 25px;
+       
+    }
+
+    .form_right input[type="submit"]{
+        font-size: 12px;
+    }
+
+    .contact_section{
+        padding: 30px 0 363px;
+       
+    }
+
+
+}
+
